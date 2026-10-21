@@ -13,7 +13,7 @@ GitHub repository, so updates come straight from the upstream author.
 ## Install
 
 ```
-/plugin marketplace add YOUR-GITHUB-LOGIN/claude-ux-marketplace
+/plugin marketplace add vasiliy-dudin/claude-ux-marketplace
 /plugin install edenspiekermann-skills@claude-ux-marketplace
 ```
 
