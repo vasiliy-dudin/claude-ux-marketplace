@@ -1,0 +1,20 @@
+{
+  "name": "my-design-marketplace",
+  "owner": {
+    "name": "Vasya"
+  },
+  "metadata": {
+    "description": "Personal marketplace that pulls design skills straight from upstream repositories, so they update without manual syncing."
+  },
+  "plugins": [
+    {
+      "name": "edenspiekermann-skills",
+      "description": "Figma design system skills: audit-design-system (read-only audit), fix-design-system-finding (fixes one finding at a time), apply-design-system (binds a design to the design system).",
+      "source": {
+        "source": "github",
+        "repo": "edenspiekermann/Skills"
+      },
+      "strict": false
+    }
+  ]
+}
