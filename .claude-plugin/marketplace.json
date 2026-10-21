@@ -1,7 +1,7 @@
 {
-  "name": "my-design-marketplace",
+  "name": "my-ux-marketplace",
   "owner": {
-    "name": "Vasya"
+    "name": "Vasya Dudin"
   },
   "metadata": {
     "description": "Personal marketplace that pulls design skills straight from upstream repositories, so they update without manual syncing."
